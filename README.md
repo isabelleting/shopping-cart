@@ -12,10 +12,6 @@ Deployed to an Amazon S3 bucket. Live Demo @: http://react-producecart.s3-websit
 - You can also click on an item in the cart to see it's cost and origin.
 - Click the cost and origin of an item to delete it from the cart and add it back to the store.
 
-## Screenshots
-
-<img width="1016" height="588" alt="Screenshot 2025-10-20 at 10 34 24 PM" src="https://github.com/user-attachments/assets/c15ffd70-30c2-4531-8340-90e25c326948" />
-
 ## Technology used: 
 
 - React.js
