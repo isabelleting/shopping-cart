@@ -2,15 +2,31 @@
 
 ## Description 
 
-An exercise with MIT xPro that's a shopping cart and a store that can be restocked with a call to a Strapi database. Along with a check out that keeps track of your total. 
+An e-commerce application with MIT xPro. With a shopping cart and a store that can be restocked, along with check out that keeps track of your total. 
+Deployed to an Amazon S3 bucket. Live Demo @: http://react-producecart.s3-website-us-west-1.amazonaws.com 
 
 ## How To Run
 
-After loading in a browser window, browse through the produce and click submit. Your choice will be added to the cart and the check out will be updated with the total. You can also click on an item in the cart to see the cost and origin and click again to delete it from the cart. Click ReStock Products to replenish the store. 
+- After loading the live demo in a browser window, browse through the produce and click submit. 
+- Your choice will be added to the cart and the check out will be updated with the total amount. 
+- You can also click on an item in the cart to see it's cost and origin.
+- Click the cost and origin of an item to delete it from the cart and add it back to the store.
 
-## Roadmap of Future Improvements
+## Screenshots
 
-I would like to update the styles, layout, and the UI so its clearer and easier to use. 
+<img width="1016" height="588" alt="Screenshot 2025-10-20 at 10 34 24 PM" src="https://github.com/user-attachments/assets/c15ffd70-30c2-4531-8340-90e25c326948" />
+
+## Technology used: 
+
+- React.js
+- Bootstrap
+- AWS S3
+
+## Future Improvements
+
+- Access products from a database like MongoDB or with Strapi API. 
+- Integrate Stripe for secure checkout. 
+- Update the styles, layout, and the UI so its clearer and easier to use. 
 
 ## License
 
