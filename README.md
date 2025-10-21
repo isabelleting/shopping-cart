@@ -2,7 +2,7 @@
 
 ## Description 
 
-An e-commerce application with MIT xPro. With a shopping cart and a store that can be restocked, along with check out that keeps track of your total. 
+An e-commerce application with MIT xPro. With a shopping cart and a store that can be restocked, along with check out that keeps track of your total.\
 Deployed to an Amazon S3 bucket. Live Demo @: http://react-producecart.s3-website-us-west-1.amazonaws.com 
 
 ## How To Run
